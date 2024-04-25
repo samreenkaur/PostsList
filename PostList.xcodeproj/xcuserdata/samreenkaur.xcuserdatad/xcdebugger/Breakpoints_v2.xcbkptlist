@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3CACEB99-079F-41AF-AD77-7EE7DD90A792"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6981C531-10DC-4A24-8830-334B7180C381"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PostList/MVC/Controller/PostsListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "fetchPosts()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6981C531-10DC-4A24-8830-334B7180C381 - e3b3fe0dcc3bd1bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in PostList.PostsListViewController.fetchPosts() -&gt; ()"
+                  moduleName = "PostList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samreenkaur/Development/My/PostList/PostList/PostList/MVC/Controller/PostsListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "280">
+               </Location>
+               <Location
+                  uuid = "6981C531-10DC-4A24-8830-334B7180C381 - 65e68d504b0cf528"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PostList.PostsListViewController.fetchPosts() -&gt; ()"
+                  moduleName = "PostList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samreenkaur/Development/My/PostList/PostList/PostList/MVC/Controller/PostsListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "700">
+               </Location>
+               <Location
+                  uuid = "6981C531-10DC-4A24-8830-334B7180C381 - e3b3fe0dcc3bd192"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in PostList.PostsListViewController.fetchPosts() -&gt; ()"
+                  moduleName = "PostList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samreenkaur/Development/My/PostList/PostList/PostList/MVC/Controller/PostsListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "280">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
